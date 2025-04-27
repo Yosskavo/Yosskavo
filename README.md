@@ -4,7 +4,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="HGO" src="![image](https://github.com/user-attachments/assets/f3f180ad-4845-4053-a24c-8ef82118fdbe)">
+ <img alt="HGO" src="https://tenor.com/bYIdd.gif">
 </picture>
 
 
