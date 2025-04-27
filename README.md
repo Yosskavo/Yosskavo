@@ -1,4 +1,4 @@
-##  HELLOMANDO ![wave](moon.png)
+##  HELLOMANDO ![wave](l.png)
 
 
 <p align="center">
