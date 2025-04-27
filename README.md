@@ -1,6 +1,6 @@
 ##  HELLOMANDO ![wave](lambo.png) I am Yassine
 
-![wave](42.svg)
+![wave](42.pnj)
 
 <p align="center">
   <img src="obito-uchiha-obito.gif" alt="Animation" />
