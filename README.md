@@ -1,8 +1,4 @@
-##  HELLOMANDO 
-
-<h2 align="center">
-  Hi there <img src="night.png" width="40px" />
-</h2>
+##  HELLOMANDO ![wave](night.png)
 
 
 <p align="center">
