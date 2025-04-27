@@ -12,5 +12,5 @@ I am Yosskavo, Yassuto, Yachin, Yassine
 - 🔥 I’m currently working on time
 - 🏫 Still studing at 1337 coding school (42 network)
 - 💻 C/C++ coder
-- 🎯 arrow Next goal is to make a game or persenal os
+- 🎯 Next goal is to make a game or persenal os
 <!-->
