@@ -1,6 +1,8 @@
 ##  HELLOMANDO 
 ![Cool Animation](https://tenor.com/bYIdd.gif)
 
+![Cool Animation](obito-uchiha-obito.gif)
+
 <!--
 **Yosskavo/Yosskavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
