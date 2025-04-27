@@ -1,12 +1,13 @@
 ##  HELLOMANDO 
+![Cool Animation](https://tenor.com/bYIdd.gif)
 
-
+<!--
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="HGO" src="https://tenor.com/bYIdd.gif">
+ <img alt="HGO" src="">
 </picture>
-
+-->
 
 <!--
 **Yosskavo/Yosskavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
