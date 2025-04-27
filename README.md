@@ -1,14 +1,12 @@
 ##  HELLOMANDO 
 ![Cool Animation](https://tenor.com/bYIdd.gif)
-<div class="tenor-gif-embed" data-postid="26823621" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/obito-uchiha-obito-madara-sharingan-tobi-gif-26823621">Obito Uchiha Obito GIF</a>from <a href="https://tenor.com/search/obito-gifs">Obito GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-<!--
 <picture>
+ <div class="tenor-gif-embed" data-postid="26823621" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/obito-uchiha-obito-madara-sharingan-tobi-gif-26823621">Obito Uchiha Obito GIF</a>from <a href="https://tenor.com/search/obito-gifs">Obito GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="HGO" src="">
 </picture>
--->
 
 <!--
 **Yosskavo/Yosskavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
