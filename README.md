@@ -1,5 +1,6 @@
 <!--![wave](lambo.png)--> 
-I am THE FALLEN
+
+<h1 align="center">I am THE FALLEN</h1>
 
 <p align="center">
   <img src="obito-uchiha-obito.gif" alt="Animation" />
