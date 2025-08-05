@@ -46,7 +46,7 @@ my special place :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosskavo&theme=transparent&show_icons=true&hide_border=true)](https://github.com/Yosskavo/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosskavo&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosskavo&layout=compact&theme=transparent&show_icons=true&hide_border=true)
 
 <!--
 ## 🌐 Languages Used Across My Repositories
