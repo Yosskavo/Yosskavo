@@ -26,6 +26,7 @@ language am using :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
 school :
+
 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) 
 ![1337](https://img.shields.io/badge/1337-000000.svg?style=for-the-badge&logo=42&logoColor=white) 
 ![UM6P](https://img.shields.io/badge/UM6P-E44D26.svg?style=for-the-badge&logoColor=white) 
