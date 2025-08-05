@@ -47,7 +47,7 @@ my special place :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosskavo&theme=tokyonight&show_icons=true)](https://github.com/Yosskavo/github-readme-stats)
 
 https://github-readme-stats.vercel.app/api?username=Yosskavo&theme=tokyonight&show_icons=true
-
+<!--
 ## 🌐 Languages Used Across My Repositories
 
 | 🏷️ Language | Badge | Bytes | 📊 Percentage | Progress |
@@ -60,4 +60,4 @@ https://github-readme-stats.vercel.app/api?username=Yosskavo&theme=tokyonight&sh
 | 🐚 Shell      | ![Shell](https://img.shields.io/badge/Shell-89e051?logo=gnu-bash&logoColor=white) |     6,041 | 0.11%  | ▏                                 |
 | ✍️ Vim Script | ![Vim Script](https://img.shields.io/badge/Vim_Script-019733?logo=vim&logoColor=white) |     3,554 | 0.06%  |                                   |
 
-
+-->
