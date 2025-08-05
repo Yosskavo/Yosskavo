@@ -9,9 +9,9 @@
 <!--
 **Yosskavo/Yosskavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am Yosskavo, Yassuto, Yachin, Yassine
+I am Yosskavo :
 
-- 🔥 I’m currently working on time
+- 🔥 I’m currently workin on dyin
 - 🏫 Still studing at 1337 coding school (42 network)
 - 💻 C/C++ coder
 - 🎯 Next goal is to make a game or persenal os
