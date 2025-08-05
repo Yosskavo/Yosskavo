@@ -44,3 +44,18 @@ my special place :
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 <!-- ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) -->
 
+
+
+## 🌐 Languages Used Across My Repositories
+
+| 🏷️ Language | Badge | Bytes | 📊 Percentage | Progress |
+|:---|:---|---:|---:|:---|
+| 🎨 CSS        | ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) | 5,114,060 | 91.58% | ██████████████████████████████████ |
+| 🖥️ C          | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)     |   375,680 | 6.73%  | ██                                |
+| 💻 C++        | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) |    55,700 | 1.00%  | ▊                                 |
+| 🌀 Lua        | ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white) |    22,454 | 0.40%  | ▌                                 |
+| 🛠️ Makefile   | ![Makefile](https://img.shields.io/badge/Makefile-000000?logo=gnu&logoColor=white) |     6,839 | 0.12%  | ▏                                 |
+| 🐚 Shell      | ![Shell](https://img.shields.io/badge/Shell-89e051?logo=gnu-bash&logoColor=white) |     6,041 | 0.11%  | ▏                                 |
+| ✍️ Vim Script | ![Vim Script](https://img.shields.io/badge/Vim_Script-019733?logo=vim&logoColor=white) |     3,554 | 0.06%  |                                   |
+
+
