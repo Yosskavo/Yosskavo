@@ -44,6 +44,7 @@ my special place :
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 <!-- ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Yosskavo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🌐 Languages Used Across My Repositories
