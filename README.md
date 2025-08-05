@@ -44,7 +44,7 @@ my special place :
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 <!-- ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosskavo&theme=transparent&show_icons=true)](https://github.com/Yosskavo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosskavo&theme=transparent&show_icons=true&hide_border=false)](https://github.com/Yosskavo/github-readme-stats)
 
 <!--
 ## 🌐 Languages Used Across My Repositories
