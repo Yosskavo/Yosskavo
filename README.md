@@ -46,9 +46,9 @@ my special place :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosskavo&theme=transparent&show_icons=true&hide_border=true)](https://github.com/Yosskavo/github-readme-stats)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosskavo&layout=compact&theme=transparent&show_icons=true&hide_border=true) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![yel-mota's 42 stats](https://badge.mediaplus.ma/darkblue/yel-mota)](https://github.com/oakoudad/badge42)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) -->
 <!--
 ## 🌐 Languages Used Across My Repositories
 
