@@ -38,7 +38,7 @@ text editor :
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -->
 
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&login=yel-mota)](https://github.com/mohouyizme/1337-readme)
+<!-- [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&login=yel-mota)](https://github.com/mohouyizme/1337-readme)-->
 
 
 my special place :
@@ -47,7 +47,7 @@ my special place :
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 <!-- ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosskavo&theme=transparent&show_icons=true&hide_border=true)](https://github.com/Yosskavo/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosskavo&theme=transparent&show_icons=true&hide_border=true)](https://github.com/Yosskavo/github-readme-stats) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosskavo&layout=compact&theme=transparent&show_icons=true&hide_border=true) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![yel-mota's 42 stats](https://badge.mediaplus.ma/darkblue/yel-mota)](https://github.com/oakoudad/badge42)
