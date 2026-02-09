@@ -1,9 +1,9 @@
 
 <h1 align="center">I am THE FALLEN</h1>
 
-<!-- <p align="center">
+<p align="center">
   <img src="obito-uchiha-obito.gif" alt="Animation" />
-</p> -->
+</p>
 
 <!--
 **Yosskavo/Yosskavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
