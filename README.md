@@ -34,9 +34,11 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Yosskavo)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Yosskavo)
 
-## 🌐 Languages Used Across My Repositories
+## 🌐 Some infos
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosskavo&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosskavo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![yel-mota's 42 stats](https://badge.mediaplus.ma/darkblue/yel-mota)](https://github.com/oakoudad/badge42)
 
 
