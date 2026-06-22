@@ -44,3 +44,6 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/yel-mota" alt="yel-mota's 42 stats" /></a>
 
 
+<p align="center">
+  <img src="Inuo.gif" alt="Animation" />
+</p>
