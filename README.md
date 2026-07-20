@@ -38,8 +38,8 @@
 
 ## 🌐 Some infos
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosskavo&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosskavo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Yosskavo&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Yosskavo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/yel-mota" alt="yel-mota's 42 stats" /></a>
 
