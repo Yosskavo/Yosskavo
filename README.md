@@ -11,6 +11,13 @@
 -  C/C++ coder
 -  Next goal is to make a game or persenal os
 
+### a badge 
+
+<a href="https://www.1337hub.tech">
+  <img src="https://www.1337hub.tech/api/badge/yel-mota?theme=tokyonight&nickname=yosskavo&banner=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4846185.png&sig=YlMODce4CpUJjtt7QqzYe8oWgSiAoRqo" width="480" alt="yel-mota's 42 badge" />
+</a>
+
+
 ### language am using :
 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Yosskavo/cpp-modules)    
