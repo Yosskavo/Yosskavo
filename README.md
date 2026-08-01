@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome TO The Preview</h1>
+<h1 align="center">Welcome To The Preview</h1>
 
 <p align="center">
   <img src="obito-uchiha-obito.gif" alt="Animation" />
