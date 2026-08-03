@@ -14,7 +14,7 @@
 
 - **Education:** Studying Software Engineering at **1337 Coding School** (42 Network) / **UM6P**
 - **Focus:** C / C++ systems programming, low-level architecture, and custom tooling
-- **Environment:** Linux & Neovim enthusiast
+- **Environment:** Linux, Docker & Neovim enthusiast
 - **Goals:** Building a custom Game Engine and exploring Personal OS architecture
 
 ---
@@ -27,7 +27,8 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/Yosskavo)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/Yosskavo/shekai.nvim)
 
-**Development Environment**  
+**Development & Environment**  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Yosskavo)
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/Yosskavo/nvim)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Yosskavo)
 
