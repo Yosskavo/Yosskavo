@@ -39,21 +39,6 @@
 
 ---
 
-### 42 Network & GitHub Stats
-
-<p align="center">
-  <a href="https://www.1337hub.tech">
-    <img src="https://www.1337hub.tech/api/badge/yel-mota?theme=tokyonight&nickname=yosskavo&banner=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4846185.png&sig=YlMODce4CpUJjtt7QqzYe8oWgSiAoRqo" width="480" alt="yel-mota's 42 badge" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Yosskavo&show_icons=true&theme=github_dark" alt="Yosskavo's GitHub stats" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yosskavo&theme=github_dark" alt="Top Languages" height="165" />
-</p>
-
----
-
 ### Connect With Me
 
 <p align="center">
