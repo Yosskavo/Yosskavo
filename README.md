@@ -32,7 +32,8 @@
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/Yosskavo/nvim)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Yosskavo)
 
-**School & Network**  
+<!-- **School & Network**   -->
+<p align="center"><strong>Education</strong></p>
 <p align="center">
     <a href="https://42.fr"><img src="https://img.shields.io/badge/42-black?style=for-the-badge&logo=42&logoColor=white" alt="42 network"></a>
     <a href="https://1337.ma"><img src="https://img.shields.io/badge/1337-000000.svg?style=for-the-badge&logo=42&logoColor=white" alt="1337 coding school"></a>
