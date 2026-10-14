@@ -48,7 +48,7 @@
 ### Social Media
 
 <p align="center"><strong>Social Media</strong></p>
-<p>
+<p align="center">
   <a href="https://www.reddit.com/user/Yosskavo"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://open.spotify.com/user/31eyb3ih3ebpcxsmqectodeibr2q"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
   <a href="https://x.com/Yosskavo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
