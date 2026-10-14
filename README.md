@@ -21,18 +21,20 @@
 
 ### Tech Stack & Tools
 
-**Languages & Scripting**  
-[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Yosskavo/minishell)
-[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Yosskavo/cpp-modules)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/Yosskavo)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/Yosskavo/shekai.nvim)
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+    <a href="https://cplusplus.com"><img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></a>
+    <a href="https://c-language.org/"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"></a>
+    <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" alt="go"></a>
+</p>
 
-**Development & Environment**  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Yosskavo/inception)
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/Yosskavo/nvim)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Yosskavo)
+<p align="center"><strong>Environment</strong></p>
+<p align="center">
+    <a href="https://neovim.org"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"></a>
+    <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="arch linux"></a>
+    <a href="https://linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+</p>
 
-<!-- **School & Network**   -->
 <p align="center"><strong>Education</strong></p>
 <p align="center">
     <a href="https://42.fr"><img src="https://img.shields.io/badge/42-black?style=for-the-badge&logo=42&logoColor=white" alt="42 network"></a>
