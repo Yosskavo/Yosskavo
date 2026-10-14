@@ -9,8 +9,7 @@
 </p>
 
 ---
-
-### About Me
+<h3 align="center">About Me</h3>
 
 - **Education:** Studying Software Engineering at **1337 Coding School** (42 Network) / **UM6P**
 - **Focus:** C / C++ systems programming, low-level architecture, and custom tooling
@@ -18,8 +17,7 @@
 - **Goals:** Building a custom Game Engine and exploring Personal OS architecture
 
 ---
-
-### Tech Stack & Tools
+<h3 align="center"><b>Tech Stack & Tools</b></h3>
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
@@ -42,10 +40,8 @@
     <a href="https://um6p.ma"><img src="https://img.shields.io/badge/UM6P-E44D26.svg?style=for-the-badge&logoColor=white" alt="UM6P"></a>
 </p>
 
-
 ---
-
-### Social Media
+<h3 align="center"><b>My Places</b></h3>
 
 <p align="center"><strong>Social Media</strong></p>
 <p align="center">
