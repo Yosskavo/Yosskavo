@@ -4,6 +4,8 @@
   <b>Software Engineering Student @ 1337 (42 Network) | Systems & Low-Level Developer</b>
 </p>
 
+[![Elite 1337 rank](https://www.elite-1337.app/api/card/199950.svg?t=VPP_8HHYauZUBOzP0pvw2xRqfA_1kLMAHldZzgVbqLk&theme=dark&accent=sky&font=lucida&art=blocks&logo=0)](https://www.elite-1337.app)
+
 <p align="center">
   <img src="obito-uchiha-obito.gif" width="450" alt="Obito Animation" />
 </p>
